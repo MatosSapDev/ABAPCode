@@ -1,0 +1,10 @@
+*&---------------------------------------------------------------------*
+*& Report ZR0002
+*&---------------------------------------------------------------------*
+*&
+*&---------------------------------------------------------------------*
+REPORT ZR0002 NO STANDARD PAGE HEADING.
+WRITE 'Texto literal sempre deve ser impresso entre aspas simples'.
+
+WRITE: / 'O comando "/" quebra a impressão para próxima linha',
+
